@@ -2,13 +2,13 @@
 **gowrims/gowrims** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
 
 - 👋 Hi, I’m @Gowrishankar
 - 👀 I’m interested in c#
 - 🌱 I’m currently learning .Net Core
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ..
--->
 
 <table style="width: 100%; background-color: #22272d; border-collapse: collapse;">
   <tr style="background-color: #22272d;">
